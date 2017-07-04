@@ -16,4 +16,13 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="weather_tile_title">मौसम</string>
+  <string name="service_disabled">अक्षम</string>
+  <string name="service_error">त्रुटि</string>
+  <string name="omnijaws_service_unkown">मौसम के बारे में जानकारी उपलब्ध नहीं|</string>
+  <string name="omnijaws_service_error">मौसम डेटा लोड करने में त्रुटि</string>
+  <string name="omnijaws_service_disabled">सेवा अक्षम</string>
+  <string name="weather_widget">मौसम</string>
+  <string name="omnijaws_current_text">अभी</string>
+</resources>

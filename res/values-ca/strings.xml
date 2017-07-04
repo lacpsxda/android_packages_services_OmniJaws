@@ -40,4 +40,5 @@
   <string name="interval_4_hour">4 hores</string>
   <string name="interval_6_hour">6 hores</string>
   <string name="interval_12_hour">12 hores</string>
+  <string name="service_disabled">Deshabilitat</string>
 </resources>

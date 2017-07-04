@@ -16,4 +16,17 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="weather_retrieve_location_dialog_enable_button">Omogući</string>
+  <string name="enable_title">Omogući</string>
+  <string name="update_interval_title">Interval ažuriranja</string>
+  <string name="weather_tile_title">Vrijeme</string>
+  <string name="weather_icon_pack_title">Paket ikona za prognozu</string>
+  <string name="service_disabled">Onemogućeno</string>
+  <string name="service_error">Greška</string>
+  <string name="omnijaws_service_unkown">Nema podataka o vremenu</string>
+  <string name="omnijaws_service_error">Greška pri učitavanju podataka o vremenu</string>
+  <string name="omnijaws_service_disabled">Usluga je onemogućena</string>
+  <string name="weather_widget">Vrijeme</string>
+  <string name="omnijaws_current_text">Sada</string>
+</resources>

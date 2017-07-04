@@ -17,5 +17,11 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="service_disabled">ปิดการใช้งาน</string>
+  <string name="units_title">Unanenn</string>
+  <string name="update">Nevesaat</string>
+  <string name="interval_1_hour">1 eur</string>
+  <string name="interval_2_hour">2 eurioù</string>
+  <string name="interval_4_hour">4 eurioù</string>
+  <string name="interval_6_hour">6 eurioù</string>
+  <string name="interval_12_hour">12 eurioù</string>
 </resources>

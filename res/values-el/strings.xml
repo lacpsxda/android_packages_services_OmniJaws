@@ -36,4 +36,13 @@
   <string name="interval_4_hour">4 ώρες</string>
   <string name="interval_6_hour">6 ώρες</string>
   <string name="interval_12_hour">12 ώρες</string>
+  <string name="weather_tile_title">Καιρός</string>
+  <string name="weather_icon_pack_title">Πακέτο εικονιδίων κατάστασης</string>
+  <string name="service_disabled">Απενεργοποιημένο</string>
+  <string name="service_error">Σφάλμα</string>
+  <string name="omnijaws_service_unkown">Δεν υπάρχουν δεδομένα καιρού</string>
+  <string name="omnijaws_service_error">Σφάλμα κατά τη φόρτωση δεδομένων καιρού</string>
+  <string name="omnijaws_service_disabled">Η υπηρεσία απενεργοποιήθηκε</string>
+  <string name="weather_widget">Καιρός</string>
+  <string name="omnijaws_current_text">Τώρα</string>
 </resources>

@@ -27,9 +27,18 @@
   <string name="auto_update_title">Automatiska uppdateringar</string>
   <string name="update">Uppdatera</string>
   <string name="enable_title">Aktivera</string>
+  <string name="update_interval_title">Uppdateringsintervall</string>
   <string name="interval_1_hour">1 timme</string>
   <string name="interval_2_hour">2 timmar</string>
   <string name="interval_4_hour">4 timmar</string>
   <string name="interval_6_hour">6 timmar</string>
   <string name="interval_12_hour">12 timmar</string>
+  <string name="weather_tile_title">Väder</string>
+  <string name="service_disabled">Inaktiverad</string>
+  <string name="service_error">Error</string>
+  <string name="omnijaws_service_unkown">Ingen väderinfo</string>
+  <string name="omnijaws_service_error">Fel vid inläsning av väderdata.</string>
+  <string name="omnijaws_service_disabled">Tjänsten har inaktiverats</string>
+  <string name="weather_widget">Väder</string>
+  <string name="omnijaws_current_text">Nu</string>
 </resources>

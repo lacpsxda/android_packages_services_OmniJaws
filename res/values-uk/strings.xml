@@ -29,5 +29,13 @@
   <string name="enable_title">Увімкнути</string>
   <string name="update_interval_title">Інтервал оновлення</string>
   <string name="interval_1_hour">1 година</string>
+  <string name="weather_tile_title">Погода</string>
+  <string name="weather_icon_pack_title">Стиль значків</string>
   <string name="service_disabled">Вимкнено</string>
+  <string name="service_error">Помилка</string>
+  <string name="omnijaws_service_unkown">Немає даних про погоду</string>
+  <string name="omnijaws_service_error">Помилка завантаження даних про погоду</string>
+  <string name="omnijaws_service_disabled">Службу вимкнено</string>
+  <string name="weather_widget">Погода</string>
+  <string name="omnijaws_current_text">Зараз</string>
 </resources>

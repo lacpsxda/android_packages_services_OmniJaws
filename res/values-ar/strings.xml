@@ -16,4 +16,17 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="weather_retrieve_location_dialog_enable_button">فعّل</string>
+  <string name="enable_title">فعّل</string>
+  <string name="update_interval_title">فترات التحديث</string>
+  <string name="weather_tile_title">الطقس</string>
+  <string name="weather_icon_pack_title">حزمة رموز الحالة</string>
+  <string name="service_disabled">معطل</string>
+  <string name="service_error">خطأ</string>
+  <string name="omnijaws_service_unkown">لا يوجد بيانات طقس</string>
+  <string name="omnijaws_service_error">خطأ في تحميل بيانات الطقس</string>
+  <string name="omnijaws_service_disabled">الخدمة معطلة</string>
+  <string name="weather_widget">الطقس</string>
+  <string name="omnijaws_current_text">الان</string>
+</resources>

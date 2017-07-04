@@ -40,4 +40,13 @@
   <string name="interval_4_hour">4시간</string>
   <string name="interval_6_hour">6시간</string>
   <string name="interval_12_hour">12시간</string>
+  <string name="weather_tile_title">날씨</string>
+  <string name="weather_icon_pack_title">날씨 아이콘 팩</string>
+  <string name="service_disabled">비활성화됨</string>
+  <string name="service_error">오류</string>
+  <string name="omnijaws_service_unkown">날씨 데이터 없음</string>
+  <string name="omnijaws_service_error">날씨 정보 불러오기 오류</string>
+  <string name="omnijaws_service_disabled">서비스 사용 중지됨</string>
+  <string name="weather_widget">날씨</string>
+  <string name="omnijaws_current_text">현재</string>
 </resources>

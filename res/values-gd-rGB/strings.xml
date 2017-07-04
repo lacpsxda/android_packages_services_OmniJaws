@@ -17,5 +17,9 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="service_disabled">ปิดการใช้งาน</string>
+  <string name="interval_2_hour">2 uair a thìde</string>
+  <string name="interval_4_hour">4 uairean a thìde</string>
+  <string name="interval_6_hour">6 uairean a thìde</string>
+  <string name="interval_12_hour">12 uair a thìde</string>
+  <string name="service_error">Mearachd</string>
 </resources>

@@ -16,4 +16,14 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="update_interval_title">Интервал ажурирања</string>
+  <string name="weather_tile_title">Време</string>
+  <string name="service_disabled">Онемогућено</string>
+  <string name="service_error">Грешка</string>
+  <string name="omnijaws_service_unkown">Нема података о времену</string>
+  <string name="omnijaws_service_error">Грешка при учитавању података временске прогнозе</string>
+  <string name="omnijaws_service_disabled">Услуга онемогућена</string>
+  <string name="weather_widget">Време</string>
+  <string name="omnijaws_current_text">Сада</string>
+</resources>
