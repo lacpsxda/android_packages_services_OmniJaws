@@ -16,4 +16,14 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="settings_title">Axustes</string>
+  <string name="weather_tile_title">O Tempo</string>
+  <string name="service_disabled">Deshabilitado</string>
+  <string name="service_error">Error</string>
+  <string name="omnijaws_service_unkown">Sen datos do tempo</string>
+  <string name="omnijaws_service_error">Erro na carga carga dos datos do tempo</string>
+  <string name="omnijaws_service_disabled">Servizo deshabilitado</string>
+  <string name="weather_widget">O Tempo</string>
+  <string name="omnijaws_current_text">Agora</string>
+</resources>

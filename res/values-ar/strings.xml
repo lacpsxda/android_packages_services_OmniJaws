@@ -17,16 +17,42 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_title">مزود الطقس</string>
+  <string name="units_title">الوحدة</string>
+  <string name="weather_progress_title">التحقق من الموقع</string>
+  <string name="weather_select_location">إختر الموقع</string>
+  <string name="custom_location_title">الموقع المخصص</string>
+  <string name="weather_custom_location_dialog_title">أدخل الموقع</string>
+  <string name="weather_custom_location_title">الموقع</string>
+  <string name="weather_custom_location_missing">ضبط موقع مخصص</string>
+  <string name="weather_retrieve_location_dialog_title">لا يمكن الحصول على الموقع!</string>
+  <string name="weather_retrieve_location_dialog_message">موقع الشبكة الجغرافي معطّل.\n\nحدد موقعاً معيناً أو فعّل موقع الشبكة</string>
   <string name="weather_retrieve_location_dialog_enable_button">فعّل</string>
+  <string name="settings_title">الإعدادت</string>
+  <string name="auto_update_title">التحديثات التلقائية</string>
+  <string name="unit_metric">متري (\u00b0C)</string>
+  <string name="unit_imperial">إمبريالي (\u00b0F)</string>
+  <string name="update">تحديث</string>
   <string name="enable_title">فعّل</string>
   <string name="update_interval_title">فترات التحديث</string>
+  <string name="interval_1_hour">ساعة واحدة</string>
+  <string name="interval_2_hour">ساعتان</string>
+  <string name="interval_4_hour">4 ساعات</string>
+  <string name="interval_6_hour">6 ساعات</string>
+  <string name="interval_12_hour">12 ساعة</string>
   <string name="weather_tile_title">الطقس</string>
   <string name="weather_icon_pack_title">حزمة رموز الحالة</string>
+  <string name="weather_icon_pack_playstore">الحصول على حزم رموز</string>
   <string name="service_disabled">معطل</string>
   <string name="service_error">خطأ</string>
+  <string name="last_update_time">وقت التحديث الأخير</string>
   <string name="omnijaws_service_unkown">لا يوجد بيانات طقس</string>
   <string name="omnijaws_service_error">خطأ في تحميل بيانات الطقس</string>
+  <string name="omnijaws_service_init">في إنتظار بيانات الطقس...</string>
+  <string name="omnijaws_service_progress">تحديث...</string>
   <string name="omnijaws_service_disabled">الخدمة معطلة</string>
   <string name="weather_widget">الطقس</string>
   <string name="omnijaws_current_text">الان</string>
+  <string name="show_background_title">ظل الخلفية</string>
+  <string name="weather_config_title">إعدادات الخدمة</string>
 </resources>

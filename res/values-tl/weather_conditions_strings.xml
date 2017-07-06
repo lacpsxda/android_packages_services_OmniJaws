@@ -19,13 +19,13 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
   <!-- Weather - Weather codes -->
-  <string name="weather_26">Mendung</string>
+  <string name="weather_26">Maulap</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
-  <string name="weather_31">Padam bersih</string>
+  <string name="weather_31">I-clear</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Forecast unavailable -->

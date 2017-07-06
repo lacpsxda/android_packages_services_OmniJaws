@@ -17,12 +17,35 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_title">मौसम जानकारी प्रदाता</string>
+  <string name="units_title">यूनिट</string>
+  <string name="weather_progress_title">स्थान का सत्यापन</string>
+  <string name="weather_select_location">स्थान का चयन करें</string>
+  <string name="custom_location_title">कस्टम स्थान</string>
+  <string name="weather_custom_location_dialog_title">अपना स्थान दर्ज करें</string>
+  <string name="weather_custom_location_missing">एक कस्टम लोकेशन दिखाएं</string>
+  <string name="weather_retrieve_location_dialog_title">स्थान प्राप्त नहीं कर सकता!</string>
+  <string name="weather_retrieve_location_dialog_message">नेटवर्क जियोलोकेशन disabled है \n\n एक कस्टम स्थान या नेटवर्क स्थान सक्षम करें</string>
+  <string name="auto_update_title">स्वत: अद्यतन</string>
+  <string name="unit_metric">मैट्रिक (\u00b0C)</string>
+  <string name="unit_imperial">शाही (\u00b0F)</string>
+  <string name="update">अपडेट करें</string>
+  <string name="interval_1_hour">1 घंटा</string>
+  <string name="interval_2_hour">2 घंटे</string>
+  <string name="interval_4_hour">4 घंटे</string>
+  <string name="interval_6_hour">6 घंटे</string>
+  <string name="interval_12_hour">12 घंटे</string>
   <string name="weather_tile_title">मौसम</string>
+  <string name="weather_icon_pack_playstore">चिह्न पैक चुने</string>
   <string name="service_disabled">अक्षम</string>
   <string name="service_error">त्रुटि</string>
+  <string name="last_update_time">अंतिम अपडेट का समय</string>
   <string name="omnijaws_service_unkown">मौसम के बारे में जानकारी उपलब्ध नहीं|</string>
   <string name="omnijaws_service_error">मौसम डेटा लोड करने में त्रुटि</string>
+  <string name="omnijaws_service_init">मौसम डेटा के लिए प्रतीक्षा कर रहा है...</string>
+  <string name="omnijaws_service_progress">अपडेट कर रहा है...</string>
   <string name="omnijaws_service_disabled">सेवा अक्षम</string>
   <string name="weather_widget">मौसम</string>
   <string name="omnijaws_current_text">अभी</string>
+  <string name="show_background_title">पृष्ठभूमि छाया</string>
 </resources>
