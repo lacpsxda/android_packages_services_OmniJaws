@@ -19,19 +19,19 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
   <string name="weather_kph">km/h</string>
-  <string name="weather_mph">mi/h</string>
+  <string name="weather_mph">mph</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tempesta tropicale</string>
   <string name="weather_2">Uragano</string>
   <string name="weather_3">Forti temporali</string>
   <string name="weather_4">Temporali</string>
-  <string name="weather_5">Pioggia mista a neve</string>
-  <string name="weather_6">Pioggia mista a nevischio</string>
-  <string name="weather_7">Neve mista a nevischio</string>
+  <string name="weather_5">Pioggia mista e neve</string>
+  <string name="weather_6">Pioggia mista e nevischio</string>
+  <string name="weather_7">Neve mista e nevischio</string>
   <string name="weather_8">Pioviggine congelata</string>
   <string name="weather_9">Pioviggine</string>
-  <string name="weather_10">Pioggia congelata</string>
+  <string name="weather_10">Grandine</string>
   <string name="weather_11">Rovesci</string>
   <string name="weather_12">Rovesci</string>
   <string name="weather_13">Raffiche di neve</string>
@@ -40,7 +40,7 @@
   <string name="weather_16">Neve</string>
   <string name="weather_17">Grandine</string>
   <string name="weather_18">Nevischio</string>
-  <string name="weather_19">Tempesta di sabbia</string>
+  <string name="weather_19">Polvere</string>
   <string name="weather_20">Nebbioso</string>
   <string name="weather_21">Foschia</string>
   <string name="weather_22">Fumo</string>
@@ -63,7 +63,7 @@
   <string name="weather_33">Bel tempo</string>
   <!-- Day -->
   <string name="weather_34">Bel tempo</string>
-  <string name="weather_35">Pioggia mista a grandine</string>
+  <string name="weather_35">Pioggia mista e grandine</string>
   <string name="weather_36">Caldo</string>
   <string name="weather_37">Temporali isolati</string>
   <string name="weather_38">Temporali sparsi</string>

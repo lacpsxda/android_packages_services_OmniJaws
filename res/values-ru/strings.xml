@@ -31,7 +31,7 @@
   <string name="settings_title">Настройки</string>
   <string name="auto_update_title">Автоматические обновления</string>
   <string name="unit_metric">Метрическая (\u00b0C)</string>
-  <string name="unit_imperial">Формат (\u00b0F)</string>
+  <string name="unit_imperial">Английская (\u00b0F)</string>
   <string name="update">Обновить</string>
   <string name="enable_title">Включить</string>
   <string name="update_interval_title">Частота обновления</string>
@@ -41,18 +41,18 @@
   <string name="interval_6_hour">6 часов</string>
   <string name="interval_12_hour">12 часов</string>
   <string name="weather_tile_title">Погода</string>
-  <string name="weather_icon_pack_title">Набор значков \"Погода\"</string>
-  <string name="weather_icon_pack_playstore">Поиск наборов значков</string>
-  <string name="service_disabled">Выключено</string>
+  <string name="weather_icon_pack_title">Набор значков</string>
+  <string name="weather_icon_pack_playstore">Найти наборы значков</string>
+  <string name="service_disabled">Отключено</string>
   <string name="service_error">Ошибка</string>
   <string name="last_update_time">Время последнего обновления</string>
-  <string name="omnijaws_service_unkown">Нет данных погоды</string>
+  <string name="omnijaws_service_unkown">Нет данных о погоде</string>
   <string name="omnijaws_service_error">Ошибка загрузки данных о погоде</string>
   <string name="omnijaws_service_init">Ожидание данных о погоде...</string>
   <string name="omnijaws_service_progress">Обновление...</string>
   <string name="omnijaws_service_disabled">Служба отключена</string>
   <string name="weather_widget">Погода</string>
   <string name="omnijaws_current_text">Только что</string>
-  <string name="show_background_title">Стиль фона</string>
+  <string name="show_background_title">Тень фона</string>
   <string name="weather_config_title">Параметры службы</string>
 </resources>

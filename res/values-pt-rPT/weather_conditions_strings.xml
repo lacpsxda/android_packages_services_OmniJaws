@@ -27,23 +27,23 @@
   <string name="weather_3">Trovoada Intensa</string>
   <string name="weather_4">Trovoadas</string>
   <string name="weather_5">Misto de Chuva e Neve</string>
-  <string name="weather_6">Misto de Chuva e Granizo</string>
-  <string name="weather_7">Misto de Neve e Granizo</string>
-  <string name="weather_8">Chuviscos Congelantes</string>
+  <string name="weather_6">Misto Chuva e Geada</string>
+  <string name="weather_7">Misto Neve e Geada</string>
+  <string name="weather_8">Chuviscos Gelados</string>
   <string name="weather_9">Chuviscos</string>
-  <string name="weather_10">Chuva Congelante</string>
+  <string name="weather_10">Chuva Gelada</string>
   <string name="weather_11">Aguaceiros</string>
   <string name="weather_12">Aguaceiros</string>
-  <string name="weather_13">Queda de neve</string>
+  <string name="weather_13">Flocos de Neve</string>
   <string name="weather_14">Ligeira queda de neve</string>
-  <string name="weather_15">Tempestade de Neve</string>
+  <string name="weather_15">Neve com vento</string>
   <string name="weather_16">Neve</string>
-  <string name="weather_17">Saraiva</string>
-  <string name="weather_18">Granizo</string>
+  <string name="weather_17">Granizo</string>
+  <string name="weather_18">Geada</string>
   <string name="weather_19">Poeira</string>
   <string name="weather_20">Enevoado</string>
   <string name="weather_21">Neblina</string>
-  <string name="weather_22">Enfumaçado</string>
+  <string name="weather_22">Nevoeiro</string>
   <string name="weather_23">Ventos Fortes</string>
   <string name="weather_24">Ventoso</string>
   <string name="weather_25">Frio</string>
@@ -63,7 +63,7 @@
   <string name="weather_33">Razoável</string>
   <!-- Day -->
   <string name="weather_34">Razoável</string>
-  <string name="weather_35">Misto de Chuva e Saraiva</string>
+  <string name="weather_35">Chuva e Granizo Misturados</string>
   <string name="weather_36">Quente</string>
   <string name="weather_37">Trovoadas Isoladas</string>
   <string name="weather_38">Trovoadas Dispersas</string>
@@ -74,7 +74,7 @@
   <string name="weather_43">Nevão Forte</string>
   <string name="weather_44">Parcialmente Nublado</string>
   <string name="weather_45">Chuvas com Trovoadas</string>
-  <string name="weather_46">Chuva de Neve</string>
+  <string name="weather_46">Aguaceiros de neve</string>
   <string name="weather_47">Chuvas com Trovoadas Isoladas</string>
   <!-- Forecast unavailable -->
 </resources>
