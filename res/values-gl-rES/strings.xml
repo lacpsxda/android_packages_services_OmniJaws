@@ -18,6 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="settings_title">Axustes</string>
+  <string name="update_interval_title">Intervalo de actualización</string>
   <string name="weather_tile_title">O Tempo</string>
   <string name="weather_icon_pack_title">Paquete de iconas do clima</string>
   <string name="service_disabled">Deshabilitado</string>

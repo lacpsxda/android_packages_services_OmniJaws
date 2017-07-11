@@ -16,4 +16,10 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="weather_tile_title">Weer</string>
+  <string name="service_error">Fout</string>
+  <string name="omnijaws_service_unkown">Geen weer data</string>
+  <string name="weather_widget">Weer</string>
+  <string name="omnijaws_current_text">Nou</string>
+</resources>
