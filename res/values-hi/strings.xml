@@ -26,6 +26,7 @@
   <string name="weather_custom_location_missing">एक कस्टम लोकेशन दिखाएं</string>
   <string name="weather_retrieve_location_dialog_title">स्थान प्राप्त नहीं कर सकता!</string>
   <string name="weather_retrieve_location_dialog_message">नेटवर्क जियोलोकेशन disabled है \n\n एक कस्टम स्थान या नेटवर्क स्थान सक्षम करें</string>
+  <string name="settings_title">व्यवस्था</string>
   <string name="auto_update_title">स्वत: अद्यतन</string>
   <string name="unit_metric">मैट्रिक (\u00b0C)</string>
   <string name="unit_imperial">शाही (\u00b0F)</string>
