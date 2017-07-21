@@ -37,5 +37,13 @@
   <string name="interval_4_hour">4 שעות</string>
   <string name="interval_6_hour">6 שעות</string>
   <string name="interval_12_hour">12 שעות</string>
+  <string name="weather_tile_title">מזג אוויר</string>
+  <string name="weather_icon_pack_title">ערכת סמלים למצבים</string>
   <string name="service_disabled">בטל</string>
+  <string name="service_error">שגיאה</string>
+  <string name="omnijaws_service_unkown">אין נתוני מזג האוויר</string>
+  <string name="omnijaws_service_error">שגיאה בטעינת נתוני מזג האויר</string>
+  <string name="omnijaws_service_disabled">השירות הושבת</string>
+  <string name="weather_widget">מזג אוויר</string>
+  <string name="omnijaws_current_text">עכשיו</string>
 </resources>
