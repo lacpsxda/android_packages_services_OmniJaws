@@ -19,12 +19,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
   <string name="weather_kph">km/h</string>
-  <string name="weather_mph">mph</string>
+  <string name="weather_mph">m/h</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Torm. tropical</string>
   <string name="weather_2">Huracán</string>
-  <string name="weather_3">Torm. severas</string>
+  <string name="weather_3">Tormentas severas</string>
   <string name="weather_4">Tormentas</string>
   <string name="weather_5">Agua y nieve</string>
   <string name="weather_6">Agua y aguanieve</string>

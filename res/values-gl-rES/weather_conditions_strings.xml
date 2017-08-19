@@ -47,6 +47,7 @@
   <string name="weather_23">Borrascoso</string>
   <string name="weather_24">Ventoso</string>
   <string name="weather_25">Frío</string>
+  <string name="weather_26">Nubrado</string>
   <!-- Night -->
   <string name="weather_27">Maiormente nubrado</string>
   <!-- Day -->
