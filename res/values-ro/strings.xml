@@ -18,21 +18,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="provider_title">Furnizor vreme</string>
-  <string name="units_title">Unitate</string>
+  <string name="units_title">Unităţi</string>
   <string name="weather_progress_title">Verificare locație</string>
   <string name="weather_select_location">Selectați locația</string>
   <string name="custom_location_title">Locație personalizată</string>
-  <string name="weather_custom_location_dialog_title">Introdu locația</string>
+  <string name="weather_custom_location_dialog_title">Introduceţi locaţia</string>
   <string name="weather_custom_location_title">Locație</string>
-  <string name="weather_custom_location_missing">Setare locaţie personalizata</string>
-  <string name="weather_retrieve_location_dialog_title">Imposibil de găsit locație!</string>
+  <string name="weather_custom_location_missing">Setaţi o locație personalizată</string>
+  <string name="weather_retrieve_location_dialog_title">Nu se poate prelua locaţia!</string>
   <string name="weather_retrieve_location_dialog_message">Geo-localizarea prin rețea este dezactivată.\n\nSelectează o locație personalizată sau activează locația prin rețea</string>
   <string name="weather_retrieve_location_dialog_enable_button">Activează</string>
   <string name="settings_title">Setări</string>
   <string name="auto_update_title">Actualizări automate</string>
   <string name="unit_metric">Metric (\u00b0C)</string>
-  <string name="unit_imperial">Imperial - (\u00b0F)</string>
-  <string name="update">Actualizează</string>
+  <string name="unit_imperial">Imperial (\u00b0F)</string>
+  <string name="update">Actualizare</string>
   <string name="enable_title">Activează</string>
   <string name="update_interval_title">Interval de actualizare</string>
   <string name="interval_1_hour">1 oră</string>
@@ -47,7 +47,7 @@
   <string name="service_error">Eroare</string>
   <string name="last_update_time">Ultima actualizare</string>
   <string name="omnijaws_service_unkown">Date meteo indisponibile</string>
-  <string name="omnijaws_service_error">Eroare la încărcarea datelor despre vreme</string>
+  <string name="omnijaws_service_error">Eroare la încărcarea datelor meteo</string>
   <string name="omnijaws_service_init">Aşteptare date meteo...</string>
   <string name="omnijaws_service_progress">Actualizare...</string>
   <string name="omnijaws_service_disabled">Serviciu dezactivat</string>
