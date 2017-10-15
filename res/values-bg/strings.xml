@@ -17,5 +17,39 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_title">Информация за времето</string>
+  <string name="units_title">Единица</string>
+  <string name="weather_progress_title">Проверка на място</string>
+  <string name="weather_select_location">Избор на местоположение</string>
+  <string name="custom_location_title">Персонализирано местоположение</string>
+  <string name="weather_custom_location_dialog_title">Въведете местоположение</string>
+  <string name="weather_custom_location_title">Местоположение</string>
+  <string name="weather_custom_location_missing">Задаване персонализирано местоположение</string>
+  <string name="weather_retrieve_location_dialog_title">Не може да извлече местоположение!</string>
+  <string name="weather_retrieve_location_dialog_message">Мрежа геолокация е изкл.\n\nЗадайте местоположение по избор или включете откриването на местоположение</string>
+  <string name="weather_retrieve_location_dialog_enable_button">Разреши</string>
   <string name="settings_title">Настройки</string>
+  <string name="auto_update_title">Автоматична актуализация</string>
+  <string name="unit_metric">Метрични (\u00b0C)</string>
+  <string name="unit_imperial">Американска (\u00b0F)</string>
+  <string name="update">Актуализация</string>
+  <string name="enable_title">Разреши</string>
+  <string name="interval_1_hour">1 час</string>
+  <string name="interval_2_hour">2 часа</string>
+  <string name="interval_4_hour">4 часа</string>
+  <string name="interval_6_hour">6 часа</string>
+  <string name="interval_12_hour">12 часа</string>
+  <string name="weather_tile_title">Времето</string>
+  <string name="weather_icon_pack_playstore">Намери пакети с икони</string>
+  <string name="service_disabled">Деактивирано</string>
+  <string name="service_error">Грешка</string>
+  <string name="last_update_time">Последна актуализация</string>
+  <string name="omnijaws_service_unkown">Няма информация за времето</string>
+  <string name="omnijaws_service_error">Грешка при зареждане на данни за времето</string>
+  <string name="omnijaws_service_init">Изчакване на данни за времето...</string>
+  <string name="omnijaws_service_progress">Актуализиране...</string>
+  <string name="omnijaws_service_disabled">Услуга с забранена</string>
+  <string name="weather_widget">Времето</string>
+  <string name="omnijaws_current_text">Сега</string>
+  <string name="show_background_title">Фонова сянка</string>
 </resources>

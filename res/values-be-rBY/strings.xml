@@ -17,17 +17,42 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_title">Пастаўшчыкі надвор\'я</string>
+  <string name="units_title">Адзінкі вымярэння</string>
+  <string name="weather_progress_title">Праверка месцазнаходжання</string>
+  <string name="weather_select_location">Выбраць месцазнаходжанне</string>
+  <string name="custom_location_title">Наладка месцазнаходжання</string>
+  <string name="weather_custom_location_dialog_title">Увядзіце месцазнаходжанне</string>
   <string name="weather_custom_location_title">Месцазнаходжанне</string>
+  <string name="weather_custom_location_missing">Усталяваць сваё месцазнаходжанне</string>
+  <string name="weather_retrieve_location_dialog_title">Немагчыма атрымаць месцазнаходжанне!</string>
+  <string name="weather_retrieve_location_dialog_message">Вызначэнне месцазнаходжання па сетцы выключана.\n\nУвядзіце месцазнаходжанне ўручную або уключыце вызначэнне месцазнаходжання па сетцы</string>
+  <string name="weather_retrieve_location_dialog_enable_button">Уключыць</string>
   <string name="settings_title">Налады</string>
+  <string name="auto_update_title">Аўтаматычныя абнаўленні</string>
+  <string name="unit_metric">Метрычная сістэма (\u00b0C)</string>
+  <string name="unit_imperial">Англійская (\u00b0F)</string>
+  <string name="update">Абнавіць</string>
+  <string name="enable_title">Уключыць</string>
   <string name="update_interval_title">Інтэрвал абнаўлення</string>
+  <string name="interval_1_hour">1 гадзіна</string>
+  <string name="interval_2_hour">2 гадзіны</string>
+  <string name="interval_4_hour">4 гадзіны</string>
+  <string name="interval_6_hour">6 гадзін</string>
+  <string name="interval_12_hour">12 гадзін</string>
   <string name="weather_tile_title">Надвор\'е</string>
   <string name="weather_icon_pack_title">Стыль значкоў</string>
+  <string name="weather_icon_pack_playstore">Знайсці пакеты значкоў</string>
   <string name="service_disabled">Адключана</string>
   <string name="service_error">Памылка</string>
+  <string name="last_update_time">Час апошняга абнаўлення</string>
   <string name="omnijaws_service_unkown">Няма дадзеных пра надвор\'е</string>
   <string name="omnijaws_service_error">Памылка загрузкі дадзеных аб надвор\'і</string>
+  <string name="omnijaws_service_init">Чакання дадзеных аб надвор\'і...</string>
+  <string name="omnijaws_service_progress">Абнаўленне...</string>
   <string name="omnijaws_service_disabled">Служба адключана</string>
   <string name="weather_widget">Надвор\'е</string>
   <string name="omnijaws_current_text">Цяпер</string>
+  <string name="show_background_title">Цень фона</string>
   <string name="weather_config_title">Налады службы</string>
 </resources>

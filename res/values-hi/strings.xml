@@ -37,6 +37,7 @@
   <string name="interval_6_hour">6 घंटे</string>
   <string name="interval_12_hour">12 घंटे</string>
   <string name="weather_tile_title">मौसम</string>
+  <string name="weather_icon_pack_title">शर्त चिह्न पैक</string>
   <string name="weather_icon_pack_playstore">चिह्न पैक चुने</string>
   <string name="service_disabled">अक्षम</string>
   <string name="service_error">त्रुटि</string>

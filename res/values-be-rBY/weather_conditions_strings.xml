@@ -56,6 +56,7 @@
   <!-- Day -->
   <string name="weather_30">Малавоблачна</string>
   <!-- Night -->
+  <string name="weather_31">Ачысціць</string>
   <string name="weather_32">Сонечна</string>
   <!-- Night -->
   <string name="weather_33">Ясна</string>
