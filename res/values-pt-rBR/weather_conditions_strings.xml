@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
-  <string name="weather_kph">km/h</string>
+  <string name="weather_kph">k/h</string>
   <string name="weather_mph">mph</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>

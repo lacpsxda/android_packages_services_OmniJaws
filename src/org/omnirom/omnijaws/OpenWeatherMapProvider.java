@@ -32,12 +32,13 @@ import android.location.Location;
 import android.net.Uri;
 import android.util.Log;
 
-public class OpenWeatherMapProvider extends AbstractWeatherProvider {
+    public class OpenWeatherMapProvider extends AbstractWeatherProvider {
     private static final String TAG = "OpenWeatherMapProvider";
 
     private static final int FORECAST_DAYS = 5;
     private static final String SELECTION_LOCATION = "lat=%f&lon=%f";
     private static final String SELECTION_ID = "id=%s";
+    private static final String API_KEY = "e506f04e653cc6eae39b7b266a111eed";
 
     private static final String URL_LOCATION =
             "http://api.openweathermap.org/data/2.5/find?q=%s&mode=json&lang=%s&appid=%s";
